@@ -197,7 +197,7 @@ msgstr "常问问题"
 msgid "Where should I report a bug or make a suggestion?"
 msgstr "我应该在哪里报告错误的翻译？"
 
-msgid "GitHub is my peferred option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
 msgstr "GitHub是我偏向的选择。否则你可以通过Reddit，Facebook或Twitter与我联系。请包含发生错误的URL以及尽可能多的信息。"
 
 msgid "How frequently do the lists update?"
