@@ -27,19 +27,19 @@ msgid "Names can't contain 'riot'"
 msgstr "名字不能包含'暴乱'"
 
 msgid "This is a problem with Riot's servers"
-msgstr "这是Riot服务器的问题"
+msgstr "这是关于Riot服务器的问题"
 
 msgid "New Account"
-msgstr "新账户"
+msgstr "新账号"
 
 msgid "Name Change"
 msgstr "名称变更"
 
 msgid "Generator"
-msgstr "发电机"
+msgstr "生成器"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr "%(num_variants)s变种中没有%(name)s可用。"
+msgstr "%(num_variants)s不同版本中， 没有%(name)s可用。"
 
 msgid "Summoner name not in use"
 msgstr "召唤者姓名未被使用"
@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "按帐户ID查找名称"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr "这是一个旧帐户ID。请再次搜索名称以获取新名称"
+msgstr "这是一个旧帐户的ID。请再次搜索名称以获取新名称"
 
 msgid "Summoner Level High Scores"
 msgstr "召唤师等级高分"
@@ -78,7 +78,7 @@ msgid "All"
 msgstr "所有"
 
 msgid "Only letters"
-msgstr "只有信件"
+msgstr "只有字母"
 
 msgid "Only numbers"
 msgstr "只有数字"
@@ -90,10 +90,10 @@ msgid "Lists"
 msgstr "清单"
 
 msgid "No active game for %(name)s"
-msgstr "%(name)s没有活跃的游戏"
+msgstr "对%(name)s而言，没有活跃的游戏"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr "在%(region)s上没有名为“%(name)s”的召唤师。"
+msgstr "在%(region)s上， 没有名为“%(name)s”的召唤师。"
 
 msgid "Perfect Pickems"
 msgstr "完美的Pickems"
@@ -102,7 +102,7 @@ msgid "LoL Names"
 msgstr "英雄联盟名称"
 
 msgid "Checker"
-msgstr "检查"
+msgstr "检查器"
 
 msgid "Highscores"
 msgstr "高分数"
@@ -114,7 +114,7 @@ msgid "Lookup Match Details"
 msgstr "查找匹配详细信息"
 
 msgid "Track Name Changes"
-msgstr "跟踪名称更改"
+msgstr "跟踪名称中的更改"
 
 msgid "Lookup Account ID"
 msgstr "查询帐户ID"
@@ -123,7 +123,7 @@ msgid "Search by Account ID"
 msgstr "按帐户ID搜索"
 
 msgid "Statistics"
-msgstr "统计"
+msgstr "数据"
 
 msgid "Summoner Levels"
 msgstr "召唤者等级"
@@ -138,46 +138,46 @@ msgid "Languages"
 msgstr "语言"
 
 msgid "lol name checker"
-msgstr "大声笑名称检查器"
+msgstr "英雄联盟名称检查器"
 
 msgid "league name checker"
-msgstr "联赛名称检查员"
+msgstr "英雄联盟名称检查器"
 
 msgid "lol names"
-msgstr "大声笑的名字"
+msgstr "英雄联盟的名字"
 
 msgid "lolnamechecker"
 msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr "英雄联盟名称检查员"
+msgstr "英雄联盟名称检查器"
 
 msgid "lol name check"
-msgstr "大声笑名称检查"
+msgstr "英雄联盟名称检查"
 
 msgid "league names"
-msgstr "联赛名称"
+msgstr "英雄联盟名字"
 
 msgid "name checker lol"
-msgstr "名字检查员哈哈"
+msgstr "英雄联盟名字检查器"
 
 msgid "League of Legends names"
 msgstr "英雄联盟的名字"
 
 msgid "summoner name checker"
-msgstr "召唤者名称检查员"
+msgstr "召唤者名字检查器"
 
 msgid "league name availability"
-msgstr "联赛名称可用性"
+msgstr "英雄联盟名字可用性"
 
 msgid "lol name availability"
-msgstr "大声笑名称可用性"
+msgstr "英雄联盟名字可用性"
 
 msgid "lol nick"
-msgstr "哈哈尼克"
+msgstr "英雄联盟 尼克"
 
 msgid "available league names"
-msgstr "可用的联赛名称"
+msgstr "可用的英雄联盟名字"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "有关召唤者姓名的常见问题解答"
@@ -186,19 +186,19 @@ msgid "FAQ questions about League of Legends summoner name change rules."
 msgstr "关于英雄联盟召唤者名称变更规则的常见问题解答。"
 
 msgid "Close"
-msgstr "关"
+msgstr "关闭"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
 msgstr "本节包含大量与<strong>LoL Names.GG</strong>及其使用相关的信息。如果您无法找到问题的答案，请随时<a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">与我联系</a> 。"
 
 msgid "Frequently Asked Questions"
-msgstr "经常问的问题"
+msgstr "常问问题"
 
 msgid "Where should I report a bug or make a suggestion?"
 msgstr "我应该在哪里报告错误的翻译？"
 
-msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr "GitHub是我的选择。否则你可以通过Reddit，Facebook或Twitter与我联系。请包含发生错误的URL以及尽可能多的信息。"
+msgid "GitHub is my peferred option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr "GitHub是我偏向的选择。否则你可以通过Reddit，Facebook或Twitter与我联系。请包含发生错误的URL以及尽可能多的信息。"
 
 msgid "How frequently do the lists update?"
 msgstr "列表更新的频率如何？"
@@ -210,34 +210,34 @@ msgid "Why can't I take a name on a new account?"
 msgstr "为什么我不能在新帐户上取名？"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "如果帐户已经使用了名称，则只能通过更改名称来获取该名称。这些名称以绿色背景显示。如果当前用户未使用某个名称，您可以在全新的帐户中使用该名称。这些名称以蓝色背景显示。"
+msgstr "如果改名字已被另外一个账号使用，则只能通过更改名字来获取该名字。这些名称以绿色背景显示。如果当前用户未使用某个名称，您可以在全新的帐户中使用该名称。这些名称以蓝色背景显示。"
 
 msgid "What if the account is banned?"
-msgstr "如果帐户被禁止怎么办？"
+msgstr "如果帐户被封了怎么办？"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr "如果该帐户被禁止，它可能会显示为具有绿色背景的免费，但除非Riot更改其禁止帐户的政策，否则它将无限期保持不可用状态。"
+msgstr "如果该帐户被禁止，它可能会显示为具有绿色背景的可供使用名字状态，但除非Riot更改其禁止帐户的政策，否则它将无限期保持不可用状态。"
 
 msgid "How can I get a 2 letter name?"
 msgstr "我如何获得一个2个字母的名字？"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr "英雄联盟名称的最小字符数为3.您可以在字符之间放置一个空格来修复此问题。"
+msgstr "英雄联盟名字的最小字符数为3.您可以在字符之间放置一个空格来修复此问题。"
 
 msgid "What timezone is used?"
 msgstr "使用什么时区？"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "所有时区均采用UTC格式。使用此时<a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">区转换器</a>将其调整为您当地的时间。"
+msgstr "所有时区均采用UTC格式。使用此链接<a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">区转换器</a>将其调整为您当地的时间。"
 
 msgid "When exactly will the name become available?"
-msgstr "该名称何时可用？"
+msgstr "这个名字何时可用？"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr "通常在UTC午夜清理名称。但是，在某些情况下，我发现它需要48小时。在列出的当天每隔几小时检查一次。"
+msgstr "名字通常在UTC时区的午夜被清理。但是，在某些情况下，我发现它需要48小时。在名字列出的当天每隔几小时检查一次。"
 
 msgid "Can you remove a name from a list for me?"
-msgstr "你能从我的名单中删除一个名字吗？"
+msgstr "你能帮我从一份清单中剔除一个名字吗？"
 
 msgid "No. All the names are automatically scanned."
 msgstr "不会。所有名称都会自动扫描。"
@@ -249,52 +249,52 @@ msgid "Contact me here."
 msgstr "在这里联系我。"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr "为什么不允许前Xahah和Rakan冠军头衔？"
+msgstr "为什么不允许使用前Xahah和Rakan冠军头衔的名字？"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr "骚乱已经表示他们将不再保留新冠军的名字。"
+msgstr "Riot已经表示他们将不再保留新冠军的名字。"
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr "然而，他们禁止旧名称的帐户，因此他们永远不会过期。"
+msgstr "然而，他们禁止了旧名字的帐户，因此他们永远不会过期。"
 
 msgid "Disclaimer"
 msgstr "放弃"
 
 msgid "lol name generator"
-msgstr "大声笑名称生成器"
+msgstr "英雄联盟名字生成器"
 
 msgid "League of Legends name generator"
-msgstr "英雄联盟名称生成器"
+msgstr "英雄联盟名字生成器"
 
 msgid "league name generator"
-msgstr "联盟名称生成器"
+msgstr "英雄联盟名字生成器"
 
 msgid "lol names generator"
-msgstr "大声笑名称生成器"
+msgstr "lol 名字生成器"
 
 msgid "League of Legends names generator"
-msgstr "英雄联盟名称生成器"
+msgstr "英雄联盟名字生成器"
 
 msgid "summoner name generator"
-msgstr "召唤者名称生成器"
+msgstr "召唤者名字生成器"
 
 msgid "league names generator"
-msgstr "联赛名称发生器"
+msgstr "联盟名字生成器"
 
 msgid "lol username generator"
-msgstr "大声笑用户名生成器"
+msgstr "lol 用户名生成器"
 
 msgid "name generator lol"
-msgstr "名字生成器大声笑"
+msgstr "名字生成器 lol"
 
 msgid "lol ign generator"
-msgstr "大声笑发电机"
+msgstr "lol ign 生成器"
 
 msgid "League of Legends username generator"
 msgstr "英雄联盟用户名生成器"
 
 msgid "lol club tag generator"
-msgstr "大声笑俱乐部标签生成器"
+msgstr "英雄联盟俱乐部标签生成器"
 
 msgid "lol summoner name generator"
 msgstr "lol召唤者名字生成器"
@@ -303,46 +303,46 @@ msgid "lol nickname generator"
 msgstr "lol昵称生成器"
 
 msgid "lol generator name"
-msgstr "大声笑生成器名称"
+msgstr "lol 名字生成器"
 
 msgid "League of Legends summoner name generator"
-msgstr "英雄联盟召唤者名称生成器"
+msgstr "英雄联盟召唤者名字生成器"
 
 msgid "lol nicknames generator"
-msgstr "哈哈昵称发电机"
+msgstr "lol 昵称生成器"
 
 msgid "ign generator lol"
-msgstr "点燃发电机lol"
+msgstr "ign 生成器 lol"
 
 msgid "lol nick generator"
-msgstr "哈哈尼克发电机"
+msgstr "lol 昵称生成器"
 
 msgid "League of Legends special characters"
-msgstr "英雄联盟特殊人物"
+msgstr "英雄联盟特殊字符"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "添加特殊字符到'%(name)s'，看看哪些可用！"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr "最好的英雄联盟名称生成器！使用它可以为任何名称添加特殊字符并显示可用的名称。"
+msgstr "最好的英雄联盟名字生成器！使用它可以为任何名字添加特殊字符并显示可用的名称。"
 
 msgid "LoL Name Generator"
-msgstr "LoL名称生成器"
+msgstr "LoL名字生成器"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
 msgstr "最好的英雄联盟召唤者名称生成器。生成器会自动为英雄联盟的名字添加特殊字符，并检查它们是否是免费的。"
 
 msgid "Go"
-msgstr "走"
+msgstr "开始"
 
 msgid "ERROR:"
 msgstr "错误："
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr "这将为名称添加特殊字符，并检查它们是否可用。"
+msgstr "这将为名字添加特殊字符，并检查它们是否可用。"
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr "“英雄联盟”召唤者名称中允许的所有大写和小写特殊字符的列表，看起来像英文字母。"
+msgstr "一个“英雄联盟”召唤者名字中允许的看起来像英文字母的， 包含所有大写和小写特殊字符的列表。"
 
 msgid "Lower case:"
 msgstr "小写："
@@ -357,13 +357,13 @@ msgid "Account ID Finder"
 msgstr "帐户ID查找器"
 
 msgid "lol id"
-msgstr "大声笑"
+msgstr "英雄联盟 id"
 
 msgid "summoner id"
-msgstr "召唤者身份证"
+msgstr "召唤师 id"
 
 msgid "lol account finder"
-msgstr "大声笑帐户查找器"
+msgstr "lol 帐户查找器"
 
 msgid "account finder"
 msgstr "帐户查找器"
@@ -372,16 +372,16 @@ msgid "lol id finder"
 msgstr "lol id finder"
 
 msgid "lol summoner id"
-msgstr "大声笑召唤者身份证"
+msgstr "lol 召唤师id"
 
 msgid "League of Legends account id"
-msgstr "英雄联盟账号"
+msgstr "英雄联盟账号id"
 
 msgid "lol account id"
-msgstr "大声笑帐户ID"
+msgstr "lol帐户ID"
 
 msgid "summoner id lol"
-msgstr "召唤者身份lol"
+msgstr "召唤者id lol"
 
 msgid "League of Legends id search"
 msgstr "英雄联盟id搜索"
@@ -390,28 +390,28 @@ msgid "League of Legends summoner id"
 msgstr "英雄联盟召唤师id"
 
 msgid "lol id search"
-msgstr "大声笑id搜索"
+msgstr "lol id搜索"
 
 msgid "League of Legends account lookup"
 msgstr "英雄联盟帐户查找"
 
 msgid "League of Legends id"
-msgstr "英雄联盟身份证"
+msgstr "英雄联盟id"
 
 msgid "summoner id League of Legends"
-msgstr "召唤者id英雄联盟"
+msgstr "召唤师id 英雄联盟"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr "查看%(name)s的帐户ID和召唤者ID！"
+msgstr "查看%(name)s的帐户ID和召唤师ID！"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr "搜索召唤师的帐户ID和召唤者ID。"
+msgstr "搜索一个帐户的ID和对应的召唤师ID。"
 
 msgid "LoL Account ID Finder"
 msgstr "LoL帐户ID查找器"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr "输入召唤者姓名并查找其帐户ID。如果他们更改名称，则帐户ID将保持不变。"
+msgstr "输入召唤师姓名并查找其帐户ID。如果他们更改名称，则帐户ID将保持不变。"
 
 msgid "Search"
 msgstr "搜索"
@@ -438,19 +438,19 @@ msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s未使用！"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "查看召唤者名称属于帐户ID %(account_id)s！"
+msgstr "查看哪个召唤师名字在该帐户ID %(account_id)s上！"
 
 msgid "Search for a summoner name using an account ID."
-msgstr "使用帐户ID搜索召唤者姓名。"
+msgstr "使用帐户ID搜索召唤师名字。"
 
 msgid "LoL Name by Account ID"
-msgstr "按帐户ID LoL名称"
+msgstr "按帐户ID LoL名字"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr "使用帐户ID跟踪召唤者姓名。输入召唤者的帐户ID并找到他们的用户名。它的工作方式与lolking相同，为页面添加书签，即使在名称更改后，您也始终知道召唤者名称。"
+msgstr "使用帐户ID跟踪召唤师姓名。输入召唤师的帐户ID并找到他们的用户名。它的工作方式与lolking相同，为页面添加书签，即使在名称更改后，您也能始终知道召唤师名称。"
 
 msgid "Account ID was found!"
-msgstr "找到了帐号"
+msgstr "帐号被找到了"
 
 msgid "Current Name"
 msgstr "当前名称"
@@ -465,13 +465,13 @@ msgid "Current level"
 msgstr "当前水平"
 
 msgid "%(account_id)s is not owned!"
-msgstr "%(account_id)s不归属！"
+msgstr "%(account_id)s还未被占用！"
 
 msgid "highest level in League of Legends"
 msgstr "英雄联盟中的最高级别"
 
 msgid "lol highest level"
-msgstr "大声笑最高级别"
+msgstr "lol最高级别"
 
 msgid "highest League of Legends level"
 msgstr "最高英雄联盟等级"
@@ -480,52 +480,49 @@ msgid "highest level in lol"
 msgstr "lol中的最高级别"
 
 msgid "highest league level"
-msgstr "最高联赛水平"
+msgstr "最高英雄联盟水平"
 
 msgid "highest level on League of Legends"
 msgstr "英雄联盟的最高水平"
 
 msgid "highest level league player"
-msgstr "最高级别的联赛球员"
+msgstr "最高水平的英雄联盟玩家"
 
 msgid "top level lol"
-msgstr "顶级lol"
+msgstr "顶级水平的lol"
 
 msgid "highest level lol player"
 msgstr "最高级别的lol玩家"
 
 msgid "lol level"
-msgstr "大声笑水平"
+msgstr "英雄联盟 等级"
 
 msgid "League of Legends highest level player"
-msgstr "英雄联盟最高级别的球员"
+msgstr "英雄联盟最高级别的玩家"
 
 msgid "who is the highest level in League of Legends"
-msgstr "谁是英雄联盟中的最高级别"
+msgstr "谁是英雄联盟中最高级别的玩家"
 
 msgid "what is the highest level in League of Legends"
 msgstr "什么是英雄联盟的最高水平"
 
 msgid "highest level in League of Legends right now"
-msgstr "现在英雄联盟的最高水平"
+msgstr "目前英雄联盟的最高等级"
 
 msgid "summoner level leaderboard"
-msgstr "召唤师级别排行榜"
+msgstr "召唤师等级排行榜"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "查看世界顶级%(number)s召唤师等级！"
+msgstr "查看世界最顶尖的前%(number)s召唤师等级！"
 
 msgid "The top summoner level in League of Legends!"
-msgstr "英雄联盟中的顶级召唤师等级！"
+msgstr "英雄联盟中的顶尖召唤师等级！"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr "跟踪谁拥有英雄联盟中最高的召唤等级。高分可以在世界范围内显示或按地区排序。查看召唤师级排行榜。"
+msgstr "追踪谁拥有英雄联盟中最高的召唤等级。可以按在世界范围内或按地区排序显示高分。查看召唤师级排行榜。"
 
 msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
-msgstr ""
-
-msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
-msgstr ""
+msgstr "目前%(top.display_name)s在%(top.level)s这个等级上拥有世界范围内的最高召唤师等级"
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "此排行榜每天至少更新一次。为此页面添加书签，稍后再回来查看新的更新。"
@@ -534,16 +531,16 @@ msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=
 msgstr "还可以查看<a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">召唤者姓名检查器</a>或<a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">即将到期</a>的<a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">名单列表</a> 。"
 
 msgid "Rank"
-msgstr "独奏排名"
+msgstr "排名"
 
 msgid "Icon"
 msgstr "图标"
 
 msgid "Summoner Name"
-msgstr "召唤师名称"
+msgstr "召唤师名字"
 
 msgid "Region"
-msgstr "区域"
+msgstr "地区"
 
 msgid "Current Level"
 msgstr "当前水平"
@@ -552,43 +549,43 @@ msgid "Check now"
 msgstr "现在检查"
 
 msgid "League of Legends names list"
-msgstr "英雄联盟名单"
+msgstr "英雄联盟名字清单"
 
 msgid "names for lol"
-msgstr "大声笑的名字"
+msgstr "用于lol的名字"
 
 msgid "lol nicknames"
-msgstr "哈哈昵称"
+msgstr "lol 昵称"
 
 msgid "names for League of Legends"
-msgstr "英雄联盟的名字"
+msgstr "用于英雄联盟的名字"
 
 msgid "best lol names"
-msgstr "最好的哈哈名字"
+msgstr "最棒的lol名字"
 
 msgid "League of Legends nicknames"
-msgstr "英雄联盟绰号"
+msgstr "英雄联盟昵称"
 
 msgid "lol names list"
-msgstr "大声笑名单"
+msgstr "英雄联盟名字清单"
 
 msgid "best name in lol"
 msgstr "在lol中的最佳名字"
 
 msgid "League of Legends names available"
-msgstr "英雄联盟名称可用"
+msgstr "英雄联盟可用名字"
 
 msgid "cool League of Legends names"
 msgstr "很酷的英雄联盟名字"
 
 msgid "cool lol names"
-msgstr "很酷的哈哈名字"
+msgstr "很酷的lol名字"
 
 msgid "lol name list"
-msgstr "大声笑名单"
+msgstr "lol 名字清单"
 
 msgid "nicknames for lol"
-msgstr "lol的昵称"
+msgstr "用于lol的昵称"
 
 msgid "best names for lol"
 msgstr "lol的最佳名字"
@@ -597,28 +594,28 @@ msgid "name for lol"
 msgstr "lol的名字"
 
 msgid "nicknames for League of Legends"
-msgstr "英雄联盟的昵称"
+msgstr "用于英雄联盟的昵称"
 
 msgid "best lol names list"
-msgstr "最好的lol名单"
+msgstr "最好的lol名字清单"
 
 msgid "best names for League of Legends"
 msgstr "英雄联盟的最佳名字"
 
 msgid "lol inactive names"
-msgstr "大声笑不活跃的名字"
+msgstr "lol不活跃的名字"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr "查看召唤者名称%(name)s何时可用！"
+msgstr "查看这个召唤者名字%(name)s何时可用！"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr "最好的英雄联盟名称。 非活动名称检查器，生成列表和热门搜索。"
+msgstr "最棒的英雄联盟名字。 非活跃名字检查器，生成列表和热门搜索。"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "找到一个好的用户名很难，我们让它变得简单！ LoL名称GG提供了一个英雄联盟名称检查器，一个生成已有名称的数据库和一个基于以前搜索的即将到来的名字列表。 LoL Names GG是获得最佳英雄联盟召唤者名字的最佳地点。例如，查看我们的三个字母名称列表或输入您的梦想英雄联盟名称，我们会在可用时通知您！"
+msgstr "找到一个好的用户名有点难，但是我们让它变得简单！ LoL Names GG提供了一个使用英雄联盟名字检查器的平台，一个生成已有名称的数据库和一个基于以前搜索的即将到来的名字列表。 LoL Names GG是获得最佳英雄联盟召唤师名字的最佳地方。例如，查看我们的三个字母名字列表或输入您的梦想英雄联盟名字，我们会在可用时通知您！"
 
 msgid "LoL Name Checker"
-msgstr "LoL名称检查器"
+msgstr "LoL名字检查器"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "使用此网站查找召唤者名称何时到期。"
@@ -654,7 +651,7 @@ msgid "%(name)s is probably available!"
 msgstr "%(name)s可能有售！"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr "如果现在无法使用此名称，则几乎可以肯定该帐户被禁止，名称将永不过期。"
+msgstr "如果现在无法使用此名字，则几乎可以肯定该帐户被封号，名字将永不过期。"
 
 msgid "Add Special Characters"
 msgstr "添加特殊字符"
@@ -663,46 +660,46 @@ msgid "%(summoner_name)s is available!"
 msgstr "%(summoner_name)s可用！"
 
 msgid "This name currently isn't used."
-msgstr "目前未使用此名称。"
+msgstr "目前此名称未使用。"
 
 msgid "It is available for new accounts."
 msgstr "它适用于新帐户。"
 
 msgid "league of legends names list"
-msgstr "英雄联盟名单"
+msgstr "英雄联盟名字清单"
 
 msgid "names for league of legends"
 msgstr "英雄联盟的名字"
 
 msgid "league of legends nicknames"
-msgstr "英雄联盟绰号"
+msgstr "英雄联盟昵称"
 
 msgid "league of legends names available"
-msgstr "英雄联盟名称可用"
+msgstr "英雄联盟可用名字"
 
 msgid "cool league of legends names"
-msgstr "很酷的传奇联盟名称"
+msgstr "很酷的英雄联盟名字"
 
 msgid "nicknames for league of legends"
-msgstr "英雄联盟的绰号"
+msgstr "用于英雄联盟的昵称"
 
 msgid "best names for league of legends"
 msgstr "英雄联盟的最佳名字"
 
 msgid "Lists of all the best summoner names!"
-msgstr "列出所有最好的召唤者名字！"
+msgstr "列出所有最棒的召唤者名字！"
 
 msgid "Select a list and region"
 msgstr "选择列表和区域"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr "定期更新，精选的目前可用的联盟传奇召唤者名字列表。查找具有所有最佳召唤者名称的列表。"
+msgstr "定期更新，精选的目前可用的英雄联盟召唤师名字列表。查找具有所有最佳召唤师名字的列表。"
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr "查看%(page_title)s列表以及它们何时可用！"
 
 msgid "Name"
-msgstr "名称"
+msgstr "名字"
 
 msgid "Type"
 msgstr "类型"
@@ -714,7 +711,7 @@ msgid "Recheck"
 msgstr "重新检查"
 
 msgid "Name change only"
-msgstr "仅更改名称"
+msgstr "仅用于更改名字"
 
 msgid "Click to update"
 msgstr "点击更新"
@@ -723,25 +720,25 @@ msgid "New accounts or name change"
 msgstr "新帐户或名称更改"
 
 msgid "Active Match Lookup"
-msgstr "主动匹配查找"
+msgstr "活跃匹配查找"
 
 msgid "lol match lookup"
-msgstr "大声笑匹配查找"
+msgstr "lol匹配查找"
 
 msgid "active match lol"
-msgstr "主动搭配哈哈"
+msgstr "活跃匹配 lol"
 
 msgid "lol active match"
-msgstr "大声笑活跃的比赛"
+msgstr "lol 活跃匹配"
 
 msgid "lol lookup"
-msgstr "大声笑查找"
+msgstr "lol 查找"
 
 msgid "lol current match lookup"
 msgstr "lol当前匹配查找"
 
 msgid "lol game lookup"
-msgstr "大声笑游戏查找"
+msgstr "lol 游戏查找"
 
 msgid "see current League of Legends match details"
 msgstr "查看当前的英雄联盟比赛详情"
@@ -776,14 +773,14 @@ msgstr "Pick'em大奖"
 msgid "perfect pick'ems"
 msgstr "完美的选择"
 
-msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "2018年英雄联盟世界锦标赛小组赛期间，唯一一位仍然有机会获得完美选秀权的球员加上所有647完美皮克"
+msgid "See the only player that still has a chance at perfect pick‘ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
+msgstr "查看2018年英雄联盟世界锦标赛小组赛期间，唯一一位仍然有机会获得完美pick‘ems加上所有647完美pick‘ems的玩家"
 
 msgid "<p>Number of perfect scores: <b>0</b>"
 msgstr "<p>完美分数： <b>0</b>"
 
 msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
-msgstr "<p> <b>0</b>名来自小组赛的完美选秀球员选择Invictus Gaming获胜！每个团队至少挑选一人。有关更多详细信息，请参见饼图。"
+msgstr "<p> <b>0</b>名来自小组赛的完美pick‘ems玩家选择Invictus Gaming获胜！每个团队至少挑选一人。有关更多详细信息，请参见饼图。"
 
 msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
 msgstr "<p>最高分： <b>124</b>分， <b>64</b>组和<b>60</b>淘汰赛。目前最高的淘汰赛得分为<b>35分</b> 。 </p>"
@@ -798,7 +795,7 @@ msgid "Group"
 msgstr "组"
 
 msgid "Knockout"
-msgstr "昏死"
+msgstr "淘汰"
 
 msgid "Predicted Winner"
 msgstr "预测获胜者"
@@ -810,22 +807,22 @@ msgid "All Player Predictions (outer) compared with 64 points (inner)"
 msgstr "所有玩家预测（外部）与64分（内部）相比"
 
 msgid "Summoner Icon Statistics"
-msgstr "召唤者图标统计"
+msgstr "召唤师图标统计"
 
 msgid "lol summoner icons"
-msgstr "哈哈召唤者图标"
+msgstr "lol 召唤师图标"
 
 msgid "League of Legends summoner icons"
 msgstr "英雄联盟召唤师图标"
 
 msgid "lol icon"
-msgstr "大声笑图标"
+msgstr "lol图标"
 
 msgid "summoner icons"
-msgstr "召唤者图标"
+msgstr "召唤师图标"
 
 msgid "summoner icon"
-msgstr "召唤者图标"
+msgstr "召唤师图标"
 
 msgid "lol icon usage"
 msgstr "大声笑图标用法"
@@ -834,10 +831,10 @@ msgid "most popular League of Legends icons"
 msgstr "最受欢迎的英雄联盟图标"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr "查看英雄联盟中所有最常用和最少使用的召唤者图标"
+msgstr "查看英雄联盟中所有最常用和最少使用的召唤师图标"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr "此表显示了所有地区当前补丁中英雄联盟中所有最常用和最稀有的召唤者图标。"
+msgstr "此表显示了所有地区当前补丁中英雄联盟中所有最常用和最稀有的召唤师图标。"
 
 msgid "Number"
 msgstr "数"
@@ -849,22 +846,22 @@ msgid "Summoner Level Statistics"
 msgstr "召唤师等级统计"
 
 msgid "summoner statistics"
-msgstr "召唤者统计数据"
+msgstr "召唤师统计数据"
 
 msgid "lol summoner statistics"
-msgstr "lol召唤者统计数据"
+msgstr "lol召唤师统计数据"
 
 msgid "lol statistics"
-msgstr "大声笑统计"
+msgstr "lol数据"
 
 msgid "lol summoner level"
-msgstr "大声笑召唤师等级"
+msgstr "lol召唤师等级"
 
 msgid "level in lol"
-msgstr "大声笑"
+msgstr "在lol中的等级"
 
 msgid "summoner statistics lol"
-msgstr "召唤者统计lol"
+msgstr "召唤师统计数据 lol"
 
 msgid "statistics lol"
 msgstr "统计lol"
@@ -873,22 +870,22 @@ msgid "See all the League of Legends summoner level statistics"
 msgstr "查看所有英雄联盟召唤师等级统计数据"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr "此图表比较了所有区域中级别100和125之间的所有汇总器。"
+msgstr "此图表比较了所有区域中级别100和125之间的所有地区。"
 
 msgid "Summoner level distribution by region"
-msgstr "召唤师级别按地区分布"
+msgstr "按地区分布召唤师级别"
 
 msgid "Number of Summoners"
-msgstr "召唤者人数"
+msgstr "召唤师人数"
 
 msgid "lol name change history"
-msgstr "大声笑名称更改历史记录"
+msgstr "lol名字更改历史记录"
 
 msgid "league name change history"
-msgstr "联赛名称改变历史"
+msgstr "英雄联盟名字改变历史"
 
 msgid "lol name history"
-msgstr "大声笑名字的历史"
+msgstr "lol名字的历史"
 
 msgid "League of Legends previous names"
 msgstr "英雄联盟以前的名字"
@@ -897,37 +894,37 @@ msgid "League of Legends name change history"
 msgstr "英雄联盟命名改变历史"
 
 msgid "lol previous names"
-msgstr "大声笑以前的名字"
+msgstr "lol以前的名字"
 
 msgid "League of Legends name history"
 msgstr "英雄联盟命名历史"
 
 msgid "League of Legends name change"
-msgstr "名称改变联盟"
+msgstr "英雄联盟名字变更"
 
 msgid "league name history"
-msgstr "联赛名称历史"
+msgstr "英雄联盟名字历史"
 
 msgid "summoner name history"
-msgstr "召唤者姓名历史"
+msgstr "召唤师名字历史"
 
 msgid "lol name change"
-msgstr "大声笑名称更改"
+msgstr "lol名字更改"
 
 msgid "lol name tracker"
-msgstr "大声笑名称跟踪器"
+msgstr "lol名字追踪器"
 
 msgid "league name change tracker"
-msgstr "联赛名称更改跟踪器"
+msgstr "英雄联盟名字更改跟踪器"
 
 msgid "Track League of Legends name changes!"
-msgstr "Track Track of Legends名称更改！"
+msgstr "追踪英雄联盟名字更改历史！"
 
 msgid "Step 1: Lookup Account ID"
 msgstr "第1步：查找帐户ID"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr "第2步：按帐户ID和书签进行搜索以进行跟踪"
+msgstr "第2步：按帐户ID和书签进行搜索以进行追踪"
 
 
 
